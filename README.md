@@ -2,4 +2,7 @@
 Atividade avaliativa back-end
 
 Utilizando a API de https://github.com/robertoduessmann/weather-api/tree/master
-o projeto planeja indicar o clima da cidade solicitada.
+o projeto planeja indicar o clima da cidade solicitada em localhost/post ou localhost/postar
+
+Para mais informações, utilizar o localhost/ajuda ou localhost/help
+
