@@ -6,3 +6,4 @@ o projeto planeja indicar o clima da cidade solicitada em localhost/post ou loca
 
 Para mais informações, utilizar o localhost/ajuda ou localhost/help
 
+http://localhost:8080/tellme
