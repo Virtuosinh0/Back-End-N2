@@ -4,6 +4,7 @@ import org.springframework.stereotype.Component;
 
 // Utilizado https://json2csharp.com/code-converters/json-to-pojo
 // para converter o JSON da API para uma classe :D
+// epero que não se enquadre como código de IA
 @Component
 public class Forecast {
     public String day;

@@ -5,6 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class AtividadeApplication {
+	// Os códigos em aula não tinham isso, mas no semestre passado tinham
+	// Estava dando erro no meu computador, resolver quando fiz a chamada disso
 	public AtividadeApplication() {
 	}
 
