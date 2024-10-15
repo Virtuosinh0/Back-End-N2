@@ -4,14 +4,6 @@
 
 Este projeto utiliza a API disponível em [weather-api](https://github.com/robertoduessmann/weather-api/tree/master) para indicar o clima da cidade solicitada. As informações podem ser acessadas através das seguintes rotas:
 
-- **POST**: `localhost/post` ou `localhost/postar` 
-
-Para mais informações, utilize:
-
-- **Ajuda**: `localhost/ajuda` ou `localhost/help`
-
----
-
 ## Rotas
 
 ### 1. Rota de Comunicação com a API
