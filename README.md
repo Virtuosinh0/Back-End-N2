@@ -12,6 +12,8 @@ Retorna um JSON com as informações do clima para a cidade especificada.
 
 **Exemplo**:  
 `http://localhost:8080/weather?city=criciuma`
+`http://localhost:8080/weather?city=newyork`
+`http://localhost:8080/weather?city=sidney`
 
 ---
 
